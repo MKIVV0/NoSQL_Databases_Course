@@ -10,3 +10,4 @@ theme = "Ayu"
 
 [output.html]
 mathjax-support = true
+css = ["./src/css/custom.css"]
