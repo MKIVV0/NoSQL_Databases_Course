@@ -1,0 +1,12 @@
+[book]
+authors = ["Matteo Huang"]
+language = "en"
+multilingual = false
+src = "src"
+title = "NoSQL Databases Course Notes"
+
+[build]
+theme = "Ayu"
+
+[output.html]
+mathjax-support = true
