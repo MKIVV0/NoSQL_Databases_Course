@@ -12,3 +12,5 @@
     - [Graph Databases](./2024-02-27/content/2024-02-27-file4.md)
     - [NoSQL in action](./2024-02-27/content/2024-02-27-file5.md)
 - [Lecture 3 - 2024-03-05](./2024-03-05/content/2024-02-05-Intro.md)
+    - [Introducing Key-Value Data Stores Features](./2024-03-05/content/2024-02-27-file1.md)
+    - [Design Patterns for Key-Value Datastores](./2024-03-05/content/2024-02-27-file2.md)
