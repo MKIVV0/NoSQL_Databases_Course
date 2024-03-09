@@ -1,4 +1,24 @@
 # Summary
 
 - [Preface](./Preface.md)
-- [Introduction](./2024-02-20-Intro.md)
+- [Introduction and Overview](./2024-02-20-Intro.md)
+    - [The trends & requirements of database systems]
+        - [What about RDBMSs? - A brief review of Relational Databases]
+        - [What's the value of relational databases?]
+        - [Impedance mismatch]
+        - [The NoSQL class]
+        - [Why NoSQL and Big Data]
+    - [Why opt for Non-Relational Databases?]
+        - [How can we quantify big data?]
+        - [What kind of data are we considering?]
+        - [Technologies for Big Data]
+        - [NoSQL Fundamentals]
+    - [NoSQL Datastores and Challenges]
+        - [NoSQL Properties in more detail]
+        - [Data models in the NoSQL family]
+        - [Aggregate orientation]
+        - [Challenges and Considerations]
+    - [Data Processing]
+        - [Data Processing and Design]
+        - [Design strategy]
+    - [Additional Notes]
