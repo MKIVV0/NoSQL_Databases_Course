@@ -14,3 +14,6 @@
 - [Lecture 3 - 2024-03-05](./2024-03-05/content/2024-02-05-Intro.md)
     - [Introducing Key-Value Data Stores Features](./2024-03-05/content/2024-02-27-file1.md)
     - [Design Patterns for Key-Value Datastores](./2024-03-05/content/2024-02-27-file2.md)
+- [Lecture 4 - 2024-03-12](./2024-03-12/content/2024-03-12-Intro.md)
+    - [An introduction to Redis](./2024-03-12/content/2024-03-12-file1.md)
+    - [Examples](./2024-03-12/content/2024-03-12-file2.md)
