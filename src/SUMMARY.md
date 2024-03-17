@@ -18,3 +18,4 @@
     - [An introduction to Redis](./2024-03-12/content/2024-03-12-file1.md)
     - [Example 1](./2024-03-12/content/2024-03-12-file2.md)
     - [Example 2](./2024-03-12/content/2024-03-12-file3.md)
+- [Lecture 5 - 2024-03-19]()
