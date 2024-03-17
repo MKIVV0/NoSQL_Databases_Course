@@ -16,4 +16,5 @@
     - [Design Patterns for Key-Value Datastores](./2024-03-05/content/2024-02-27-file2.md)
 - [Lecture 4 - 2024-03-12](./2024-03-12/content/2024-03-12-Intro.md)
     - [An introduction to Redis](./2024-03-12/content/2024-03-12-file1.md)
-    - [Examples](./2024-03-12/content/2024-03-12-file2.md)
+    - [Example 1](./2024-03-12/content/2024-03-12-file2.md)
+    - [Example 2](./2024-03-12/content/2024-03-12-file3.md)
