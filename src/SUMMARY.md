@@ -9,6 +9,7 @@
     - [Introducing Key-Value Stores](./2024-02-27/content/2024-02-27-file1.md)
     - [Document Databases](./2024-02-27/content/2024-02-27-file2.md)
     - [Column Family Stores](./2024-02-27/content/2024-02-27-file3.md)
+        - [Exploring Bigtable - A Pioneer in Column-Family Stores](./2024-02-27/content/2024-02-27-file3.1.md)
     - [Graph Databases](./2024-02-27/content/2024-02-27-file4.md)
     - [NoSQL in action](./2024-02-27/content/2024-02-27-file5.md)
 - [Lecture 3 - 2024-03-05](./2024-03-05/content/2024-02-05-Intro.md)
