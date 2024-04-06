@@ -22,3 +22,5 @@
 - [Lecture 5 - 2024-03-19]()
     - [Redis Transactions]()
     - [Introducing Document Databases](./2024-03-19/content/2024-03-19-file2.md)
+- [Lecture 6 - 2024-03-27]()
+    - [More on Document Databases](./2024-03-26/content/2024-03-26-file1.md)
